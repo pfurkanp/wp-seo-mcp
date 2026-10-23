@@ -9,16 +9,6 @@
 
 ---
 
-## 👤 Öğrenci Bilgileri
-
-| | |
-|---|---|
-| **Ad Soyad** | Furkan Yeşlirmak |
-| **Öğrenci No** | 24010509041 |
-| **Ders** | CPP214 |
-
----
-
 ## 🎯 Projenin Amacı ve Kısa Açıklaması
 
 Küçük işletmeler ve dijital ajanslar için düzenli, SEO uyumlu blog içeriği üretmek ciddi bir zaman ve maliyet yüküdür. Bu proje, bir **MCP sunucusu** olarak çalışarak içerik üretiminden yayınlamaya kadar tüm akışı otomatikleştirir.
